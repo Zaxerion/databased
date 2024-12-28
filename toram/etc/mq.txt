@@ -1,16 +1,17 @@
+
 - Daun Colon (Colon Leaf) x5
 - Sisik Naga (Hard Dragon Skin) x2
 - Daging Domba (Lamb Meat) x1
 - Sulur (Vine) x3
 - Paruh Tebal (Thick Beak) x3
 - Sayap Peri (Fairy Feather) x3
-- Koin Ksatria (Swordman Stone Coin) x20
-- Daging Tikus Pasir (Sand Hole Meat) x1
+- Koin Ksatria (Swordsman Stone Coin) x20
+- Daging Tikus Pasir (Sand Mole Meat) x1
 - Cakar binatang buas (Beast Claw) 3x
 - Kulit Kodok Pasir (Sand Frog skin) x5
 - Taring Bergerigi (Jagged Fang) x10
 - Kristal Saham (Saham Crystal) x5
-- Permata Jiwa (Spiritual Stone) x1
+- Permata Jiwa (Spiritual Gemstone) x1
 - Anggur Rokoko (Rokoko Grape) x5
 - Kayu Labilans (Labilans Wood) x10
 - Tanduk Patah ( Broken horn) x20
