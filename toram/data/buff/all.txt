@@ -1,3 +1,15 @@
+Max Level = level 10
+level 1 = 1 EXP
+level 2 = 3 EXP
+level 3 = 9 EXP
+level 4 = 21 EXP
+level 5 = 45 EXP
+level 6 = 93 EXP
+level 7 = 189 EXP
+level 8 = 381 EXP
+level 9 = 765 EXP
+level 10 = 1533 EXP
+
 ```BUFF ADDRESS TORAM ONLINE
 UPDATE 6 OKTOBER 2024
 
