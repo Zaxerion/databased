@@ -1,9 +1,12 @@
 List kode buff RTE Dark:
+5010092
 2020707 (9) + INT
 
 List kode buff RTE Light:
 2020909 + AMPR
-1023040 (9)
+1023040 (9) + AMPR
+1020001 (7) + PRES
+1112220 (7) + DEX
 4220777 (4)
 
 List kode buff RTE Fire:
