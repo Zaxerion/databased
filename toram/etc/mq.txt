@@ -17,4 +17,7 @@
 - Tanduk Patah ( Broken horn) x20
 - Biji Berkembang (growing ore ) x5
 - Batu Jabali (jabali stone) x5
+- Kulit Tebal Berlendir (Slimy Thick Skin) x20
+- Akar Melilit (Tangled Roots) x10
+- Kayu Menabra (Menabra Wood) x10
 - Tele Naiata x3 (Opsional)
