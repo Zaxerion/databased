@@ -1,4 +1,6 @@
-*Basic Stats*
+Informasi Stat di TORAM Online:
+
+*BASIC STATS*
 STR
 - 10 STR → 1% Sukses rate untuk craft
 > STR > AGI
@@ -49,7 +51,8 @@ TECH
 - 1 TEC → 1 MP
 - 2 TEC → 1 Difficulty
 
-*Secondary Stats*
+
+*SECONDARY STATS*
 Max HP
 - Total HP, MaxHP 99.999 HP, dapat melebihi jika menggunakan life potion 
 
@@ -85,3 +88,64 @@ CSPD
 
 FLEE
 - Berpeluang membuat serangan monster miss
+
+
+*STATS LAIN*
+Pierce
+- Stat ini untuk mengurangi sejumlah defense monster. Ada dua jenis Pierce:
+1. Physical Pierce: mengurangi defense fisik
+2. Magical Pierce: mengurangi defense sihir.
+> Catatan: Pierce hanya dapat menembus defense, bukan base resistensi.
+
+Attack MP Recovery (AMPR)
+- Mengembalikan MP saat mengenai target dengan basic attack.
+
+Stability
+- Stat yang terdapat pada semua senjata. Stat ini membantu menstabilkan damage dari 0 - 100%.
+
+Magic Stability
+- Sama seperti Stability, tetapi untuk serangan sihir, Rumusnya:
+1. Min Magic Stability Damage = MIN[90%; (100% + total stab%) ÷ 2] : (Minimal magic stab dapat meningkat hingga 90% jika total stab kamu mencapai 80%)
+2. Max Magic Stability Damage = MAX[100%; 100% + (total stab% - 80%) ÷ 2] : (Maximal magic stab defaultnya 100%, akan meningkat mulai dari 80% total stab hingga maksimal 100% = yang membuatmu mencapai 110% Max Magic stab)
+
+Graze
+- Terjadi saat menghadapi musuh dengan Dodge atau Flee yang lebih tinggi dari Accuracy mu. Graze mengurangi setengah total stab setelah dikalkulasi dengan stab dari senjata, equip, stats, dll.
+> Catatan: Graze dapat dikurangi dengan meningkatkan Accuracy. dan Tidak bisa dihindari saat melawan monster di mode kesulitan tinggi.
+
+Short Range Damage/Long Range Damage
+- Short Range Damage (SRD): Meningkatkan damage serangan dalam jarak 0 - 7 meter.
+- Long Range Damage (LRD): Meningkatkan damage serangan dalam jarak 8 - 12 meter ke atas.
+> Catatan: Beberapa skill tidak terpengaruh oleh stat ini.
+
+Guard Break
+- Memungkinkan serangan menembus defense Guard dari monster.
+
+Anticipate
+- Memungkinkan serangan menembus Evasion dari monster.
+
+Absolute Dodge
+- Memberikan kesempatan untuk menghindari serangan monster 100% tanpa terkena hit.
+
+Absolute Accuracy
+- Memberikan kesempatan untuk mengenai monster 100% tanpa miss.
+
+Recoil
+- Memberikan damage kepada diri sendiri setelah menggunakan skill / attack ke target.
+
+Reflect
+- Kebalikan dari Recoil. Jika menerima damage dari target, akan mengembalikan damage ke target berdasarkan jumlah damage yang diterima.
+
+Item Speed
+- Mengurangi cooldown penggunaan item buff (misalnya Revita).
+> Catatan: Cooldown normal adalah 10 detik.
+
+Attack/MATK UP atau DOWN% (stat)
+- Jika UP (stat) n%: Maka memberikan tambahan +(stat) x (n%) ATK atau MATK.
+- Jika DOWN (stat) n%: Maka mengurangi -(stat) x (n%) ATK atau MATK.
+> Catatan: Tambahan atau pengurangan ini bersifat flat dan tidak terpengaruh oleh (M)ATK%.
+
+Invincibility Aid
+- Menambahkan frame kebal kepada palyer saat membangkitkan pemain lain yang mati.
+
+Stun/Tumble/Flinch Unavailable
+- Jika memiliki stat ini, player tidak bisa memberikan efek Stun, Tumble, atau Flinch pada monster.
