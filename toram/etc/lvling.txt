@@ -20,3 +20,4 @@
 255-265 Mimyugon (Nightmare) : Zona Kemudi: Area Kokpit
 265-270 Naga Abu Merah Rudis (Hard) : Kubah Espuma Depan Gerbang
 270-280 Mimyugon (Ultimate) : Zona Kemudi: Area Kokpit
+280-295 Mulgoon (Hard) : Dataran Menabra
