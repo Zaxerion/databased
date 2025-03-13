@@ -5,7 +5,7 @@ bakung lelabang merah 143 - 170 (opsional)
 tongkat arus samudra 143/170 - 260
 Katana laut dalam 260 - 270
 
-Full DEX + Tech 8
+Full DEX > STR / AGI
 paruh tebal 0 - 13
 tapal minotaur  13 - 33 (opsional)
 Hard knuckles 13/33 - 53
@@ -16,7 +16,7 @@ sarung lengan naga batu 143 - 178 / 173 - 178
 tongkat arus samudra 178 - 260
 Katana laut dalam 260 - 270
 
-DEX 240 + Tech 8
+FULL STR / AGI > DEX 
 paruh tebal 0 - 13
 tapal minotaur  13 - 33
 Hard knuckles 33 - 45 (opsional)
