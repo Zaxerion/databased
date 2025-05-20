@@ -1,6 +1,6 @@
 {
   "variables": {
-     "str": "STR",
+    "str": "STR",
     "str%": "STR%",
     "int": "INT",
     "int%": "INT%",
@@ -76,7 +76,7 @@
     "prof": "jukurendo",
     "pot": "shokiSenzai"
   },
-  "Data": {
+  "data": {
     "properBui": "Weapon",
     "paramLevel": 300,
     "kisoSenzai": 15,
