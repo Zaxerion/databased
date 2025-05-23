@@ -17,6 +17,6 @@
     "Bab 15": 336800000
   },
   "mqUntil": 15,
-  "targetLevel": 300,
+  "lvlcap": 300,
   "lastmq": "Bab 15: Pertempuran di Pantai"
 }
