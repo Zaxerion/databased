@@ -3802,10 +3802,10 @@
     },
     {
       "code": 546,
-      "link": null,
-      "type": "SPECIAL",
+      "link": 244,
+      "type": "UPGRADE",
       "name": "Empuling",
-      "view": "gatau"
+      "view": "Evasion Recharge +12%\nAggro +24%\nMATK -4%"
     },
     {
       "code": 547,
