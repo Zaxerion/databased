@@ -24,9 +24,9 @@
     {
       "code": 4,
       "link": null,
-      "name": "CSPD+140",
+      "name": "Cast Speed+140",
       "type": "NORMAL",
-      "view": "CSPD +140"
+      "view": "Cast Speed +140"
     },
     {
       "code": 5,
@@ -89,7 +89,7 @@
       "link": null,
       "name": "Gigantic Octopus",
       "type": "NORMAL",
-      "view": "Attack MP Recovery +5\nCritical Rate +10\nASPD +150\nCSPD +250\nFire resistance -4%\nAilment Resistance -2%\nReduksi DMG (Bowling) -1%"
+      "view": "Attack MP Recovery +5\nCritical Rate +10\nASPD +150\nCast Speed +250\nFire resistance -4%\nAilment Resistance -2%\nReduce DMG (Bowling) -1%"
     },
     {
       "code": 15,
@@ -101,9 +101,9 @@
     {
       "code": 16,
       "link": null,
-      "name": "CSPD+120",
+      "name": "Cast Speed+120",
       "type": "NORMAL",
-      "view": "CSPD +120"
+      "view": "Cast Speed +120"
     },
     {
       "code": 17,
@@ -117,7 +117,7 @@
       "link": null,
       "name": "MP+300",
       "type": "NORMAL",
-      "view": "CSPD +120"
+      "view": "Cast Speed +120"
     },
     {
       "code": 19,
@@ -250,7 +250,7 @@
       "link": null,
       "name": "Fanadon",
       "type": "NORMAL",
-      "view": "Critical Damage +3\nReduksi DMG (Sekitar Pemain) -3%\nReduksi DMG (Sekitar Musuh) -3%"
+      "view": "Critical Damage +3\nReduce DMG (Sekitar Pemain) -3%\nReduce DMG (Sekitar Musuh) -3%"
     },
     {
       "code": 38,
@@ -312,8 +312,8 @@
       "code": 46,
       "link": null,
       "type": "NORMAL",
-      "name": "CSPD+100",
-      "view": "CSPD +100"
+      "name": "Cast Speed+100",
+      "view": "Cast Speed +100"
     },
     {
       "code": 47,
@@ -460,7 +460,7 @@
       "link": null,
       "type": "NORMAL",
       "name": "Nurethoth",
-      "view": "ATK +3%\nMATK +3%\nASPD -150\nCSPD -150"
+      "view": "ATK +3%\nMATK +3%\nASPD -150\nCast Speed -150"
     },
     {
       "code": 68,
@@ -502,7 +502,7 @@
       "link": null,
       "type": "NORMAL",
       "name": "Mochelo",
-      "view": "MaxHP +5%\nCSPD +10%"
+      "view": "MaxHP +5%\nCast Speed +10%"
     },
     {
       "code": 74,
@@ -558,7 +558,7 @@
       "link": null,
       "type": "NORMAL",
       "name": "Inzanio",
-      "view": "Guard Recharge +1%\nAttack MP Recovery -1\nWeapon ATK +10\nFractional Barrier+3%"
+      "view": "Guard Recharge +1%\nAttack MP Recovery -1\nWeapon ATK +10\nFractional Barrier 3%"
     },
     {
       "code": 82,
@@ -697,8 +697,8 @@
       "code": 101,
       "link": null,
       "type": "NORMAL",
-      "name": "CSPD+80",
-      "view": "CSPD +80"
+      "name": "Cast Speed+80",
+      "view": "Cast Speed +80"
     },
     {
       "code": 102,
@@ -711,22 +711,22 @@
       "code": 103,
       "link": null,
       "type": "NORMAL",
-      "name": "CSPD+60",
-      "view": "CSPD +60"
+      "name": "Cast Speed+60",
+      "view": "Cast Speed +60"
     },
     {
       "code": 104,
       "link": null,
       "type": "NORMAL",
-      "name": "CSPD+40",
-      "view": "CSPD +40"
+      "name": "Cast Speed+40",
+      "view": "Cast Speed +40"
     },
     {
       "code": 105,
       "link": null,
       "type": "NORMAL",
-      "name": "CSPD+20",
-      "view": "CSPD +20"
+      "name": "Cast Speed+20",
+      "view": "Cast Speed +20"
     },
     {
       "code": 106,
@@ -1007,7 +1007,7 @@
       "link": 360,
       "type": "UPGRADE",
       "name": "DX Fighter II",
-      "view": "ATK +3%\nShort Range Damage +6%\nAccuracy +15%\nMaxHP +6000\nFractional Barrier +5%"
+      "view": "ATK +3%\nShort Range Damage +6%\nAccuracy +15%\nMaxHP +6000\nFractional Barrier 5%"
     },
     {
       "code": 146,
@@ -1021,14 +1021,14 @@
       "link": 409,
       "type": "UPGRADE",
       "name": "Etoise",
-      "view": "Critical Rate +40%\nASPD +1100\nMotion Speed +5%\nCSPD -70%"
+      "view": "Critical Rate +40%\nASPD +1100\nMotion Speed +5%\nCast Speed -70%"
     },
     {
       "code": 148,
       "link": 287,
       "type": "UPGRADE",
       "name": "Dominaredor",
-      "view": "ATK +8%\nMATK +8%\nASPD +20%\nReduksi DMG (Lantai) +20%"
+      "view": "ATK +8%\nMATK +8%\nASPD +20%\nReduce DMG (Lantai) +20%"
     },
     {
       "code": 149,
@@ -1084,7 +1084,7 @@
       "link": 37,
       "type": "UPGRADE",
       "name": "Orictoceras",
-      "view": "Critical Damage +9\nReduksi DMG (Sekitar Pemain) -3%\nReduksi DMG (Sekitar Musuh) -3%"
+      "view": "Critical Damage +9\nReduce DMG (Sekitar Pemain) -3%\nReduce DMG (Sekitar Musuh) -3%"
     },
     {
       "code": 157,
@@ -1105,7 +1105,7 @@
       "link": 478,
       "type": "UPGRADE",
       "name": "Chocolate Ooze II",
-      "view": "MaxHP -15%\nMaxMP +300\nCSPD +600"
+      "view": "MaxHP -15%\nMaxMP +300\nCast Speed +600"
     },
     {
       "code": 160,
@@ -1175,7 +1175,7 @@
       "link": 171,
       "type": "UPGRADE",
       "name": "Goldigem",
-      "view": "MaxHP +3000\nReduksi DMG (Terjang) +10%\nReduksi DMG (Linear) +10%\nReduksi DMG (Sekitar Pemain) +10%"
+      "view": "MaxHP +3000\nReduce DMG (Terjang) +10%\nReduce DMG (Linear) +10%\nReduce DMG (Sekitar Pemain) +10%"
     },
     {
       "code": 170,
@@ -1189,7 +1189,7 @@
       "link": 460,
       "type": "UPGRADE",
       "name": "Felicitoad",
-      "view": "MaxHP +2000\nReduksi DMG (Terjang) +10%\nReduksi DMG (Linear) +10%"
+      "view": "MaxHP +2000\nReduce DMG (Terjang) +10%\nReduce DMG (Linear) +10%"
     },
     {
       "code": 172,
@@ -1203,14 +1203,14 @@
       "link": 279,
       "type": "UPGRADE",
       "name": "Neo Wandering Wheel",
-      "view": "Long Range Damage -16%\nMATK +5%\nCSPD +75%"
+      "view": "Long Range Damage -16%\nMATK +5%\nCast Speed +75%"
     },
     {
       "code": 174,
       "link": 67,
       "type": "UPGRADE",
       "name": "Nuthoreth",
-      "view": "ATK +2%\nMATK +2%\nASPD +150\nCSPD +150"
+      "view": "ATK +2%\nMATK +2%\nASPD +150\nCast Speed +150"
     },
     {
       "code": 175,
@@ -1245,14 +1245,14 @@
       "link": 325,
       "type": "UPGRADE",
       "name": "Pedrio",
-      "view": "ATK +10%\nMATK +10%\nReduksi DMG (Bowling) +20%\nReduksi DMG (Peluru) +20%\nAggro -40%"
+      "view": "ATK +10%\nMATK +10%\nReduce DMG (Bowling) +20%\nReduce DMG (Peluru) +20%\nAggro -40%"
     },
     {
       "code": 180,
       "link": 226,
       "type": "UPGRADE",
       "name": "Hero Potum III",
-      "view": "MaxHP +12%\nFractional Barrier +14%\nAccuracy +16%\nAggro +18%"
+      "view": "MaxHP +12%\nFractional Barrier 14%\nAccuracy +16%\nAggro +18%"
     },
     {
       "code": 181,
@@ -1280,7 +1280,7 @@
       "link": 238,
       "type": "UPGRADE",
       "name": "Wicked Dragon Fazzino",
-      "view": "MATK +9%\nDEX +7%\nCSPD +5%"
+      "view": "MATK +9%\nDEX +7%\nCast Speed +5%"
     },
     {
       "code": 185,
@@ -1322,21 +1322,21 @@
       "link": 373,
       "type": "UPGRADE",
       "name": "Galegon",
-      "view": "CSPD +20%\nAggro -30%\nFractional Barrier +10%"
+      "view": "Cast Speed +20%\nAggro -30%\nFractional Barrier 10%"
     },
     {
       "code": 191,
       "link": 289,
       "type": "UPGRADE",
       "name": "Guard Golem",
-      "view": "ATK +9%\nMATK +9%\nASPD -225\nCSPD -225"
+      "view": "ATK +9%\nMATK +9%\nASPD -225\nCast Speed -225"
     },
     {
       "code": 192,
       "link": 274,
       "type": "UPGRADE",
       "name": "Gordel",
-      "view": "MaxMP +800\nFractional Barrier +17%\nCritical Rate +3"
+      "view": "MaxMP +800\nFractional Barrier 17%\nCritical Rate +3"
     },
     {
       "code": 193,
@@ -1574,7 +1574,7 @@
       "link": 331,
       "type": "UPGRADE",
       "name": "Hero Potum II",
-      "view": "MaxHP +11%\nFractional Barrier +12%\nAccuracy +13%\nAggro +14%"
+      "view": "MaxHP +11%\nFractional Barrier 12%\nAccuracy +13%\nAggro +14%"
     },
     {
       "code": 227,
@@ -1588,7 +1588,7 @@
       "link": 454,
       "type": "UPGRADE",
       "name": "Yashiro Azuki Mom II",
-      "view": "MATK +5%\nLong Range Damage +3%\nCSPD +20%\nAggro -10%"
+      "view": "MATK +5%\nLong Range Damage +3%\nCast Speed +20%\nAggro -10%"
     },
     {
       "code": 229,
@@ -1623,14 +1623,14 @@
       "link": 461,
       "type": "UPGRADE",
       "name": "Stellar Ooze",
-      "view": "Critical Rate +20\nAccuracy +60\nMaxMP +300\nCSPD +600"
+      "view": "Critical Rate +20\nAccuracy +60\nMaxMP +300\nCast Speed +600"
     },
     {
       "code": 234,
       "link": 273,
       "type": "UPGRADE",
       "name": "Yule Cat",
-      "view": "MATK +7%\nINT +3%\nCSPD +35%\nAttack MP Recovery +10%"
+      "view": "MATK +7%\nINT +3%\nCast Speed +35%\nAttack MP Recovery +10%"
     },
     {
       "code": 235,
@@ -1658,7 +1658,7 @@
       "link": 295,
       "type": "UPGRADE",
       "name": "Pisteus",
-      "view": "MATK +7%\nDEX +5%\nCSPD +3%"
+      "view": "MATK +7%\nDEX +5%\nCast Speed +3%"
     },
     {
       "code": 239,
@@ -1707,7 +1707,7 @@
       "link": 467,
       "type": "UPGRADE",
       "name": "Tardigrademon",
-      "view": "CSPD +450\nMaxMP -200"
+      "view": "Cast Speed +450\nMaxMP -200"
     },
     {
       "code": 246,
@@ -1819,7 +1819,7 @@
       "link": 330,
       "type": "UPGRADE",
       "name": "Usasama the Necromancer II",
-      "view": "MATK +7%\nCSPD +14%\nMotion Speed +3%\nMaxHP -15%\nAttack MP Recovery -30%"
+      "view": "MATK +7%\nCast Speed +14%\nMotion Speed +3%\nMaxHP -15%\nAttack MP Recovery -30%"
     },
     {
       "code": 262,
@@ -1882,7 +1882,7 @@
       "link": 343,
       "type": "UPGRADE",
       "name": "Bubble Bogey",
-      "view": "Additional Magic +125%\nCSPD +200\nMagic Barrier +200"
+      "view": "Additional Magic +125%\nCast Speed +200\nMagic Barrier +200"
     },
     {
       "code": 271,
@@ -1903,14 +1903,14 @@
       "link": 375,
       "type": "UPGRADE",
       "name": "Noeliel the Ice Statue",
-      "view": "MATK +5%\nCSPD +30%\nAttack MP Recovery +10%"
+      "view": "MATK +5%\nCast Speed +30%\nAttack MP Recovery +10%"
     },
     {
       "code": 274,
       "link": 384,
       "type": "UPGRADE",
       "name": "Mom Fluck",
-      "view": "MaxMP +700\nFractional Barrier +15%"
+      "view": "MaxMP +700\nFractional Barrier 15%"
     },
     {
       "code": 275,
@@ -2008,14 +2008,14 @@
       "link": 382,
       "type": "UPGRADE",
       "name": "Super Death Mushroom",
-      "view": "MaxMP +400\nCSPD +200\nAttack MP Recovery +3"
+      "view": "MaxMP +400\nCast Speed +200\nAttack MP Recovery +3"
     },
     {
       "code": 289,
       "link": 67,
       "type": "UPGRADE",
       "name": "Guignol",
-      "view": "ATK +5%\nMATK +5%\nASPD -175\nCSPD -175"
+      "view": "ATK +5%\nMATK +5%\nASPD -175\nCast Speed -175"
     },
     {
       "code": 290,
@@ -2057,7 +2057,7 @@
       "link": 349,
       "type": "UPGRADE",
       "name": "Mozto Machina",
-      "view": "DEX +4%\nMATK +6%\nCSPD +2%"
+      "view": "DEX +4%\nMATK +6%\nCast Speed +2%"
     },
     {
       "code": 296,
@@ -2141,7 +2141,7 @@
       "link": 480,
       "type": "UPGRADE",
       "name": "Ancient Empress II",
-      "view": "MATK +5%\nCSPD +30%\nShort Range Damage -20%"
+      "view": "MATK +5%\nCast Speed +30%\nShort Range Damage -20%"
     },
     {
       "code": 308,
@@ -2253,21 +2253,21 @@
       "link": null,
       "type": "WEAPON",
       "name": "Armasite",
-      "view": "MATK +5%\nMagic Pierce +20%\nCSPD -15%"
+      "view": "MATK +5%\nMagic Pierce +20%\nCast Speed -15%"
     },
     {
       "code": 324,
       "link": null,
       "type": "WEAPON",
       "name": "Drama Clown",
-      "view": "Accuracy +10%\nCritical Rate +10\nASPD +200\nCSPD +200"
+      "view": "Accuracy +10%\nCritical Rate +10\nASPD +200\nCast Speed +200"
     },
     {
       "code": 325,
       "link": null,
       "type": "WEAPON",
       "name": "Neo Maton Sword",
-      "view": "ATK +7%\nMATK +7%\nReduksi DMG (Bowling) +14%\nReduksi DMG (Peluru) +14%\nAggro -28%"
+      "view": "ATK +7%\nMATK +7%\nReduce DMG (Bowling) +14%\nReduce DMG (Peluru) +14%\nAggro -28%"
     },
     {
       "code": 326,
@@ -2302,14 +2302,14 @@
       "link": null,
       "type": "WEAPON",
       "name": "Usasama the Necromancer",
-      "view": "MATK +6%\nCSPD +12%\nMotion Speed +3%\nMaxHP -25%\nAttack MP Recovery -50%"
+      "view": "MATK +6%\nCast Speed +12%\nMotion Speed +3%\nMaxHP -25%\nAttack MP Recovery -50%"
     },
     {
       "code": 331,
       "link": null,
       "type": "WEAPON",
       "name": "Hero Potum",
-      "view": "MaxHP +10%\nFractional Barrier +10%\nAccuracy +10%\nAggro +10%"
+      "view": "MaxHP +10%\nFractional Barrier 10%\nAccuracy +10%\nAggro +10%"
     },
     {
       "code": 332,
@@ -2365,14 +2365,14 @@
       "link": null,
       "type": "WEAPON",
       "name": "Nightmare Potum",
-      "view": "Aggro +10%\nFractional Barrier+2%\nMaxHP -5%"
+      "view": "Aggro +10%\nFractional Barrier 2%\nMaxHP -5%"
     },
     {
       "code": 340,
       "link": null,
       "type": "WEAPON",
       "name": "Moonlight Potum",
-      "view": "Attack MP Recovery +3\nCSPD -90%"
+      "view": "Attack MP Recovery +3\nCast Speed -90%"
     },
     {
       "code": 341,
@@ -2393,7 +2393,7 @@
       "link": null,
       "type": "WEAPON",
       "name": "Lapin The Necromancer",
-      "view": "CSPD +100\nMagic Barrier +100\nAdditional Magic +100%"
+      "view": "Cast Speed +100\nMagic Barrier +100\nAdditional Magic +100%"
     },
     {
       "code": 344,
@@ -2435,7 +2435,7 @@
       "link": null,
       "type": "WEAPON",
       "name": "Demon's Gate",
-      "view": "DEX +2%\nMATK +3%\nCSPD +1%"
+      "view": "DEX +2%\nMATK +3%\nCast Speed +1%"
     },
     {
       "code": 350,
@@ -2512,7 +2512,7 @@
       "link": null,
       "type": "ARMOR",
       "name": "DX Fighter",
-      "view": "ATK +2%\nShort Range Damage +6%\nAccuracy +10%\nMaxHP +5000\nFractional Barrier +5%"
+      "view": "ATK +2%\nShort Range Damage +6%\nAccuracy +10%\nMaxHP +5000\nFractional Barrier 5%"
     },
     {
       "code": 361,
@@ -2568,7 +2568,7 @@
       "link": null,
       "type": "ARMOR",
       "name": "Demonic Quasar",
-      "view": "MaxMP +1000\nCSPD +300\nMotion Speed +1%"
+      "view": "MaxMP +1000\nCast Speed +300\nMotion Speed +1%"
     },
     {
       "code": 369,
@@ -2603,21 +2603,21 @@
       "link": null,
       "type": "ARMOR",
       "name": "Thug Golem",
-      "view": "Fractional Barrier 10%\nCSPD +15%\nAggro -20%"
+      "view": "Fractional Barrier 10%\nCast Speed +15%\nAggro -20%"
     },
     {
       "code": 374,
       "link": null,
       "type": "ARMOR",
       "name": "Iron Empress",
-      "view": "MaxHP +20%\nPhysical Resistance +10%\nMATK +5%\nMagic Pierce +10%\nCSPD +20%\nMaxMP -300"
+      "view": "MaxHP +20%\nPhysical Resistance +10%\nMATK +5%\nMagic Pierce +10%\nCast Speed +20%\nMaxMP -300"
     },
     {
       "code": 375,
       "link": null,
       "type": "ARMOR",
       "name": "Noeliel",
-      "view": "MATK +5%\nCSPD +3%\nAttack MP Recovery +1%"
+      "view": "MATK +5%\nCast Speed +3%\nAttack MP Recovery +1%"
     },
     {
       "code": 376,
@@ -2666,7 +2666,7 @@
       "link": null,
       "type": "ARMOR",
       "name": "Jade Raptor",
-      "view": "MaxMP +300\nCSPD +100\nAttack MP Recovery +1"
+      "view": "MaxMP +300\nCast Speed +100\nAttack MP Recovery +1"
     },
     {
       "code": 383,
@@ -2680,7 +2680,7 @@
       "link": null,
       "type": "ARMOR",
       "name": "Ifrid",
-      "view": "MaxMP +600\nFractional Barrier +12%"
+      "view": "MaxMP +600\nFractional Barrier 12%"
     },
     {
       "code": 385,
@@ -2750,7 +2750,7 @@
       "link": null,
       "type": "SPECIAL",
       "name": "Ghost Forest Dark Shaman",
-      "view": "Magic Pierce +5%\nCSPD +20%\nEvasion Recharge +10%\nMaxMP -300\nWith Shield:\nStability +5%\nATK -10%"
+      "view": "Magic Pierce +5%\nCast Speed +20%\nEvasion Recharge +10%\nMaxMP -300\nWith Shield:\nStability +5%\nATK -10%"
     },
     {
       "code": 395,
@@ -2778,7 +2778,7 @@
       "link": null,
       "type": "SPECIAL",
       "name": "Stellar Ooze II",
-      "view": "ATK +5%\nUnsheathe Attack +5%\nPhysical Pierce +5%\nMaxMP +150\nNatural MP Regen +15%\nReduksi DMG (Bowling) +15%\nRevive Time +60%"
+      "view": "ATK +5%\nUnsheathe Attack +5%\nPhysical Pierce +5%\nMaxMP +150\nNatural MP Regen +15%\nReduce DMG (Bowling) +15%\nRevive Time +60%"
     },
     {
       "code": 399,
@@ -2827,7 +2827,7 @@
       "link": null,
       "type": "SPECIAL",
       "name": "Star Wizard",
-      "view": "MATK +9%\nCSPD +9%\nAnticipate +9%\nWith Staff:\nAggro -9%\nWith Shield:\nAggro +9%"
+      "view": "MATK +9%\nCast Speed +9%\nAnticipate +9%\nWith Staff:\nAggro -9%\nWith Shield:\nAggro +9%"
     },
     {
       "code": 406,
@@ -2855,7 +2855,7 @@
       "link": null,
       "type": "SPECIAL",
       "name": "Volgagon",
-      "view": "Critical Rate +20%\nASPD +1000\nCSPD -80%"
+      "view": "Critical Rate +20%\nASPD +1000\nCast Speed -80%"
     },
     {
       "code": 410,
@@ -2911,7 +2911,7 @@
       "link": null,
       "type": "SPECIAL",
       "name": "Choiyaki Mentai",
-      "view": "MaxMP +300\nShort Range Damage +2%\nFire resistance +1%\nMATK -10%\nReduksi DMG (Lantai) -20%"
+      "view": "MaxMP +300\nShort Range Damage +2%\nFire resistance +1%\nMATK -10%\nReduce DMG (Lantai) -20%"
     },
     {
       "code": 418,
@@ -2967,7 +2967,7 @@
       "link": null,
       "type": "SPECIAL",
       "name": "Granny",
-      "view": "MATK +100\nCSPD -1000"
+      "view": "MATK +100\nCast Speed -1000"
     },
     {
       "code": 426,
@@ -3044,7 +3044,7 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Mage Filecia",
-      "view": "MATK +9%\nINT +3%\nStability +6%\nWith Staff:\nGuard Break +10%\nWith Magic Device:\nReduksi DMG (Bowling) +20%"
+      "view": "MATK +9%\nINT +3%\nStability +6%\nWith Staff:\nGuard Break +10%\nWith Magic Device:\nReduce DMG (Bowling) +20%"
     },
     {
       "code": 437,
@@ -3079,7 +3079,7 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Mieli",
-      "view": "Magic Pierce +10%\nCritical Rate +20%\nASPD +400\nCSPD +400\nMaxHP -20%"
+      "view": "Magic Pierce +10%\nCritical Rate +20%\nASPD +400\nCast Speed +400\nMaxHP -20%"
     },
     {
       "code": 442,
@@ -3170,7 +3170,7 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Narumi Hina",
-      "view": "MATK +4%\nLong Range Damage +3%\nCSPD +20%\nAggro -10%"
+      "view": "MATK +4%\nLong Range Damage +3%\nCast Speed +20%\nAggro -10%"
     },
     {
       "code": 455,
@@ -3212,21 +3212,21 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Golden Iconos",
-      "view": "MaxHP +1000\nReduksi DMG (Terjang) +10%"
+      "view": "MaxHP +1000\nReduce DMG (Terjang) +10%"
     },
     {
       "code": 461,
       "link": null,
       "type": "ADDITIONAL",
       "name": "Gespenst II",
-      "view": "Critical Rate +10\nAccuracy +30\nMaxMP +200\nCSPD +200"
+      "view": "Critical Rate +10\nAccuracy +30\nMaxMP +200\nCast Speed +200"
     },
     {
       "code": 462,
       "link": null,
       "type": "ADDITIONAL",
       "name": "Yashiro Azuki's Mom",
-      "view": "Critical Rate +10\nPhysical Resistance +5%\nMagical Resistance +5%\nReduksi DMG (Peluru) +10%"
+      "view": "Critical Rate +10\nPhysical Resistance +5%\nMagical Resistance +5%\nReduce DMG (Peluru) +10%"
     },
     {
       "code": 463,
@@ -3254,14 +3254,14 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Sunlight Potum",
-      "view": "ASPD +300\nCSPD +300\nMaxHP -5%\nMaxMP -75"
+      "view": "ASPD +300\nCast Speed +300\nMaxHP -5%\nMaxMP -75"
     },
     {
       "code": 467,
       "link": null,
       "type": "ADDITIONAL",
       "name": "Seltirios",
-      "view": "MaxMP -150\nCSPD +300"
+      "view": "MaxMP -150\nCast Speed +300"
     },
     {
       "code": 468,
@@ -3338,7 +3338,7 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Chocolate Ooze",
-      "view": "CSPD +500\nMaxHP -10%\nMaxMP +200"
+      "view": "Cast Speed +500\nMaxHP -10%\nMaxMP +200"
     },
     {
       "code": 479,
@@ -3352,7 +3352,7 @@
       "link": null,
       "type": "ADDITIONAL",
       "name": "Ancient Empress",
-      "view": "MATK +3%\nCSPD +50%\nShort Range Damage -10%"
+      "view": "MATK +3%\nCast Speed +50%\nShort Range Damage -10%"
     },
     {
       "code": 481,
@@ -3513,7 +3513,7 @@
       "link" : 180,
       "type": "UPGRADE",
       "name": "Hero Potum IV",
-      "view": "MaxHP +13%\nFractional Barrier +16%\nAccuracy +19%\nAggro +22%"
+      "view": "MaxHP +13%\nFractional Barrier 16%\nAccuracy +19%\nAggro +22%"
     },
     {
       "code": 504,
@@ -3611,7 +3611,7 @@
       "link": 288,
       "type": "UPGRADE",
       "name": "Dandolion",
-      "view": "MaxMP +500\nCSPD +300\nAttack MP Recovery +4\nWith Light Armor:\nStability +6%"
+      "view": "MaxMP +500\nCast Speed +300\nAttack MP Recovery +4\nWith Light Armor:\nStability +6%"
     },
     {
       "code": 519,
@@ -3632,7 +3632,7 @@
       "link": 192,
       "type": "UPGRADE",
       "name": "Biskyva",
-      "view": "MaxMP +900\nFractional Barrier +19%\nCrtical Rate +7\nCritical Damage +2%"
+      "view": "MaxMP +900\nFractional Barrier 19%\nCrtical Rate +7\nCritical Damage +2%"
     },
     {
       "code": 522,
@@ -3681,7 +3681,7 @@
       "link": 191,
       "type": "UPGRADE",
       "name": "Piscruva",
-      "view": "ATK +11%\nMATK +11%\nASPD -300\nCSPD -300"
+      "view": "ATK +11%\nMATK +11%\nASPD -300\nCast Speed -300"
     },
     {
       "code": 529,
@@ -3760,13 +3760,61 @@
       "name": "Goblin Zucotto",
       "view": "ATK +10%\nPhysical Pierce +10%\nMaxHP +24%\nAggro -15%\nWith Shield:\nMotion Speed +1%"
     },
-    
     {
       "code": 540,
       "link": 213,
       "type": "UPGRADE",
       "name": "Zega VIII",
       "view": "MaxHP +1100\nAttack MP Recovery +10\nMagical Resistance +9%\nWater resistance +8%"
+    },
+    {
+      "code": 541,
+      "link": 150,
+      "type": "UPGRADE",
+      "name": "Black Peach Ninja",
+      "view": "MaxHP +10000\nCritical Damage +9\nLong Range Damage +6%\nWith Ninjutsu Scroll:\nAggro -25%"
+    },
+    {
+      "code": 542,
+      "link": 150,
+      "type": "UPGRADE",
+      "name": "Squirinja",
+      "view": "MaxHP +10000\nCritical Damage +9\nShort Range Damage +6%\nWith Ninjutsu Scroll:\nEvasion Recharge +25%"
+    },
+    {
+      "code": 543,
+      "link": 169,
+      "type": "UPGRADE",
+      "name": "Goldian",
+      "view": "MaxHP +5000\nReduce DMG (Charge) +10%\nReduce DMG (Straight Line) +10%\nReduce DMG (Player Epicenter) +10%\nReduce DMG (Foe Epicenter) +10%"
+    },
+    {
+      "code": 544,
+      "link": 184,
+      "type": "UPGRADE",
+      "name": "Rondine",
+      "view": "MATK +11%\nDEX +9%\nCast Speed +7%"
+    },
+    {
+      "code": 545,
+      "link": null,
+      "type": "SPECIAL",
+      "name": "Black Lixi",
+      "view": "Attack MP Recovery +20\nAttack Speed +300\nAilment Resistance +10%\nAggro +40%\nWith Light Armor:\nBarier Cooldown +10%\nWith Heavy Armor:\nFractional Barrier 10%"
+    },
+    {
+      "code": 546,
+      "link": 244,
+      "type": "UPGRADE",
+      "name": "Arpoon",
+      "view": "Evasion Recharge +12%\nAggro +24%\nMATK -4%"
+    },
+    {
+      "code": 547,
+      "link": null,
+      "type": "SPECIAL",
+      "name": "Dewa Mesin Maple",
+      "view": "MaxMP +200\nDaya Jarak Dekat +10%\nKebal Fisik +10%\nKebal Sihir +10%\nResistensi Status Buruk +5%\nPelindung Fraksional 5%\nDengan Zirah Berat\nKebal Fisik +5%\nKebal Sihir +5%\nPelindung Fraksional 10%"
     }
   ]
   
