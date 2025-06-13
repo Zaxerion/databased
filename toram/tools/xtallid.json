@@ -557,7 +557,7 @@
       "link": null,
       "type": "NORMAL",
       "name": "Inzanio",
-      "view": "Guard Recharge +1%\nAttack MP Recovery -1\nWeapon ATK +10\nPelindung Fraksional+3%"
+      "view": "Guard Recharge +1%\nAttack MP Recovery -1\nWeapon ATK +10\nPelindung Fraksional 3%"
     },
     {
       "code": 82,
@@ -1005,7 +1005,7 @@
       "link": 360,
       "type": "UPGRADE",
       "name": "DX Fighter II",
-      "view": "ATK +3%\nDaya Jarak Dekat +6%\nAkurasi +15%\nMaxHP +6000\nPelindung Fraksional +5%"
+      "view": "ATK +3%\nDaya Jarak Dekat +6%\nAkurasi +15%\nMaxHP +6000\nPelindung Fraksional 5%"
     },
     {
       "code": 146,
@@ -1250,7 +1250,7 @@
       "link": 226,
       "type": "UPGRADE",
       "name": "Potum Pahlawan III",
-      "view": "MaxHP +12%\nPelindung Fraksional +14%\nAkurasi +16%\nAggro +18%"
+      "view": "MaxHP +12%\nPelindung Fraksional 14%\nAkurasi +16%\nAggro +18%"
     },
     {
       "code": 181,
@@ -1320,7 +1320,7 @@
       "link": 373,
       "type": "UPGRADE",
       "name": "Naga Langkisau",
-      "view": "CSPD +20%\nAggro -30%\nPelindung Fraksional +10%"
+      "view": "CSPD +20%\nAggro -30%\nPelindung Fraksional 10%"
     },
     {
       "code": 191,
@@ -1334,7 +1334,7 @@
       "link": 274,
       "type": "UPGRADE",
       "name": "Gordel",
-      "view": "MaxMP +800\nPelindung Fraksional +17%\nCritical Rate +3"
+      "view": "MaxMP +800\nPelindung Fraksional 17%\nCritical Rate +3"
     },
     {
       "code": 193,
@@ -1572,7 +1572,7 @@
       "link": 331,
       "type": "UPGRADE",
       "name": "Potum Pahlawan II",
-      "view": "MaxHP +11%\nPelindung Fraksional +12%\nAkurasi +13%\nAggro +14%"
+      "view": "MaxHP +11%\nPelindung Fraksional 12%\nAkurasi +13%\nAggro +14%"
     },
     {
       "code": 227,
@@ -1908,7 +1908,7 @@
       "link": 384,
       "type": "UPGRADE",
       "name": "Mama Fluck",
-      "view": "MaxMP +700\nPelindung Fraksional +15%"
+      "view": "MaxMP +700\nPelindung Fraksional 15%"
     },
     {
       "code": 275,
@@ -2307,7 +2307,7 @@
       "link": null,
       "type": "WEAPON",
       "name": "Potum Pahlawan",
-      "view": "MaxHP +10%\nPelindung Fraksional +10%\nAkurasi +10%\nAggro +10%"
+      "view": "MaxHP +10%\nPelindung Fraksional 10%\nAkurasi +10%\nAggro +10%"
     },
     {
       "code": 332,
@@ -2510,7 +2510,7 @@
       "link": null,
       "type": "ARMOR",
       "name": "DX Fighter",
-      "view": "ATK +2%\nDaya Jarak Dekat +6%\nAkurasi +10%\nMaxHP +5000\nPelindung Fraksional +5%"
+      "view": "ATK +2%\nDaya Jarak Dekat +6%\nAkurasi +10%\nMaxHP +5000\nPelindung Fraksional 5%"
     },
     {
       "code": 361,
@@ -2678,7 +2678,7 @@
       "link": null,
       "type": "ARMOR",
       "name": "Ifrid",
-      "view": "MaxMP +600\nPelindung Fraksional +12%"
+      "view": "MaxMP +600\nPelindung Fraksional 12%"
     },
     {
       "code": 385,
@@ -3511,7 +3511,7 @@
       "link": 180,
       "type": "UPGRADE",
       "name": "Potum Pahlawan IV",
-      "view": "MaxHP +13%\nPelindung Fraksional +16%\nAkurasi +19%\nAggro +22%"
+      "view": "MaxHP +13%\nPelindung Fraksional 16%\nAkurasi +19%\nAggro +22%"
     },
     {
       "code": 504,
@@ -3630,7 +3630,7 @@
       "link": 192,
       "type": "UPGRADE",
       "name": "Biskyva",
-      "view": "MaxMP +900\nPelindung Fraksional +19%\nCrtical Rate +7\nCritical Damage +2%"
+      "view": "MaxMP +900\nPelindung Fraksional 19%\nCrtical Rate +7\nCritical Damage +2%"
     },
     {
       "code": 522,
@@ -3764,5 +3764,54 @@
       "type": "UPGRADE",
       "name": "Zega VIII",
       "view": "MaxHP +1100\nAttack MP Recovery +10\nKekebalan Sihir +9%\nKebal Air +8%"
+    },
+    {
+      "code": 541,
+      "link": 150,
+      "type": "UPGRADE",
+      "name": "Ninja Persik Hitam",
+      "view": "MaxHP +10000\nCritical Damage +9\nDaya Jarak Jauh +6%\nDengan Kitab Ninjutsu\nAggro -25%"
+    },
+    {
+      "code": 542,
+      "link": 150,
+      "type": "UPGRADE",
+      "name": "Bajinja",
+      "view": "MaxHP +10000\nCritical Damage +9\nDaya Jarak Dekat +6%\nDengan Kitab Ninjutsu\nEvasion Recharge +25%"
+    },
+    {
+      "code": 543,
+      "link": 169,
+      "type": "UPGRADE",
+      "name": "Blimas",
+      "view": "MaxHP +5000\nReduksi DMG (Terjang) +10%\nReduksi DMG (Linear) +10%\nReduksi DMG (Sekitar Pemain) +10%\nReduksi DMG (Sekitar Musuh) +10%"
+    },
+    {
+      "code": 544,
+      "link": 184,
+      "type": "UPGRADE",
+      "name": "Rondine",
+      "view": "MATK +11%\nDEX +9%\nCSPD +7%"
+    },
+    {
+      "code": 545,
+      "link": null,
+      "type": "SPECIAL",
+      "name": "Lixi Hitam",
+      "view": "Attack MP Recovery +20\nKecepatan Serangan +300\nResistensi Status Buruk +10%\nAggro +40%\nDengan Zirah Ringan\nKecepatan Pelindung +10%\nDengan Zirah Berat\nPelindung Fraksional 10%"
+    },
+    {
+      "code": 546,
+      "link": null,
+      "type": "SPECIAL",
+      "name": "Empuling",
+      "view": "gatau"
+    },
+    {
+      "code": 547,
+      "link": null,
+      "type": "SPECIAL",
+      "name": "Dewa Mesin Maple",
+      "view": "MaxMP +200\nDaya Jarak Dekat +10%\nKebal Fisik +10%\nKebal Sihir +10%\nResistensi Status Buruk +5%\nPelindung Fraksional 5%\nDengan Zirah Berat\nKebal Fisik +5%\nKebal Sihir +5%\nPelindung Fraksional 10%"
     }
 ]
